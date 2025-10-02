@@ -15,7 +15,7 @@ document.querySelector("#app").innerHTML = `
     </p>
     <div class="flex gap-4 my-4 items-center">
     <img class="size-8" src="assets/images/image-avatar.webp">
-    <div class="font-bold">Greg Hooper</div>
+    <div class="font-extrabold">Greg Hooper</div>
     </div>
     </div>
   </div>
